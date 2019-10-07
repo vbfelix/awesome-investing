@@ -15,6 +15,7 @@
 ### Livros
 
 * [O Jeito Warren Buffet de Investir](https://www.amazon.com.br/JEITO-WARREN-BUFFETT-INVESTIR-ebook/dp/B07S7DVYM9?tag=goog0ef-20&smid=A18CNA8NWQSYHH) - Robert G. Hagstrom
+* [O Investidor Inteligente](https://www.amazon.com.br/investidor-inteligente-Benjamin-Graham-ebook/dp/B01B3I5Y44/) - Benjamin Graham
 * [Guia Suno Dividendos: Aprenda a selecionar ações que geram renda](https://www.amazon.com.br/Guia-Suno-Dividendos-Aprenda-selecionar-ebook/dp/B0784QT4T2/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2T4Z6Y77BRL6R&keywords=suno+dividendos&qid=1568429363&sprefix=suno%2Caps%2C380&sr=8-1) - Tiago Reis
 * [Guia Suno Fundos Imobiliários: Introdução sobre investimentos seguros e rentáveis eBook Kindle](https://www.amazon.com.br/Guia-Suno-Fundos-Imobili%C3%A1rios-investimentos-ebook/dp/B07HLPLM4V/ref=sr_1_3?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2T4Z6Y77BRL6R&keywords=suno+dividendos&qid=1568429384&sprefix=suno%2Caps%2C380&sr=8-3) - Prof. Baroni
 
@@ -34,6 +35,7 @@
 ### Podcasts
 
 * [StockPickers](https://open.spotify.com/show/0OKark671tCbUyszCSs5Ff) 
+* [Finanças e Investimentos - André Bona](https://player.fm/series/andre-bona-financas-investimentos)
 
 ### Youtube
 
